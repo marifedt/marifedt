@@ -9,7 +9,7 @@ I'm an aspiring Full Stack Developer from Toronto, Canada. Welcome to my GitHub 
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/marife-dela-torre-0081871b8/"><img src="https://img.shields.io/badge/-Twitter-31af9c?style=for-the-badge" alt="Twitter" ></a>
+  <a href="https://twitter.com/m4rife"><img src="https://img.shields.io/badge/-Twitter-31af9c?style=for-the-badge" alt="Twitter" ></a>
 </p>
 
 ### Technologies
