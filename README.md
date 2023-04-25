@@ -48,17 +48,6 @@ I'm an aspiring Full Stack Developer from Toronto, Canada. Welcome to my GitHub 
   
   
 </p>
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marifedt&theme=gruvbox&show_icons=true" alt="Marife's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marifedt&theme=gruvbox&layout=compact" alt="Top Languages" height="160">
-</p>
-<!-- ![Marife's GitHub stats](https://github-readme-stats.vercel.app/api?username=marifedt&theme=gruvbox&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marifedt&theme=gruvbox)](https://github.com/marifedt/github-readme-stats) -->
-
 <!--
 **marifedt/marifedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
