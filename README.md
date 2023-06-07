@@ -4,11 +4,12 @@ Welcome to my GitHub profile!
 
 I'm a Full Stack Developer from Toronto, Canada. 
 - 👩‍💻 I'm currently working on building web applications/web service
-- 🔧 I'm currently learning Next.js 
+- 🔧 I'm currently learning React, Next.js, and DSA with Python
 - 🧗‍♀️ You can reach me through my email: mdt.mrfdt@gmail.com
 
-<p align="center">
-  
+<h4>Connect with me: </h4>
+<p>
+  <a href="https://www.linkedin.com/in/marifedelatorre/"><img src="https://img.shields.io/badge/-LinkedIn-31af9c?style=for-the-badge" alt="LinkedIn" ></a>
   <a href="https://twitter.com/m4rife"><img src="https://img.shields.io/badge/-Twitter-31af9c?style=for-the-badge" alt="Twitter" ></a>
 </p>
 
@@ -32,20 +33,4 @@ I'm a Full Stack Developer from Toronto, Canada.
   <a href="https://www.postgresql.org/" target"_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="50" height="50"></a>
   <a href="https://sequelize.org/" target"_blank"><img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="Sequelize" width="50" height="50"></a>
   <a href="https://www.dotenv.org/" target"_blank"><img src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" width="50" height="50"></a>
-  
-
 </p>
-<!--
-**marifedt/marifedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
